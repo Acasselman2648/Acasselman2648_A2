@@ -8,3 +8,8 @@ Endpoint URLs
     -> GET Endpoints
         -> .../api/times-of-day
         -> .../api/languages
+Repository URLs
+-> API
+    -> https://github.com/Acasselman2648/Acasselman2648_A2
+-> Client 
+    -> https://github.com/Acasselman2648/Acasselman2648_A1_Console
